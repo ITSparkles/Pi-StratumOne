@@ -1,0 +1,8 @@
+pps-tools
+ntp
+dnsutils
+gpsd-clients
+usbmount
+eject
+i2c-tools
+minicom
