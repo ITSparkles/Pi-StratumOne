@@ -9,6 +9,8 @@ This is my attempt to make things easier for myself for my own Stratum One Time 
 # Steps to Install 
 
 1. Install a fresh copy of the Raspian Lite operating system onto a SD card.
-2. If you are going to run this Pi headless, make sure to create an empty file in the /boot directory called "ssh"
-3. Clone this Git and run the setup command (setup.sh)
+2. If you are going to run this Pi headless, make sure to create an empty file in the /boot directory called "ssh" so it can be accessed over the network.
+3. Clone this Git and run the setup command (setup.sh).
+4. Once the script has completed, remember to change the password for the Pi user and reboot.
+
 
