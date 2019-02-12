@@ -24,6 +24,10 @@ on the [HAB Supplies GPS HAT Extension Board](https://store.uputronics.com/index
 
 
 
+Credits : all credits are due to HAB Supplies and the very informative blog post [here](https://ava.upuaut.net/?p=951 "UPU Blog")
+          And a few other changes to see if I could make this a complete standalone, off net!
+
+
 
 
 
